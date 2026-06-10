@@ -11,15 +11,16 @@ sepal length in cm
 sepal width in cm
 petal length in cm
 petal width in cm
-species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+species: 
+-- Iris Setosa -- Iris Versicolour -- Iris Virginica
 Download link: https://www.kaggle.com/uciml/iris
 
 Libraries
-pandas
-matplotlib
-seaborn
-scikit-learn
+   pandas
+   matplotlib
+   seaborn
+   scikit-learn
 
 Algorithms
-Logistic Regression
-K-Nearest Neighbors
+    Logistic Regression
+    K-Nearest Neighbors
